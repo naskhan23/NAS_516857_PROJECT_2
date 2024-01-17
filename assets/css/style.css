@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1.5rem;
+}
